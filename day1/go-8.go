@@ -16,7 +16,7 @@ func a()  {
 func main()  {
 	value2 := 64
 	value1 = int32(value2)
-	fmt.Print(str[0])
-	fmt.Print(len(str))
+	//fmt.Print(str[0])
+	//fmt.Print(len(str))
 	a()
 }
