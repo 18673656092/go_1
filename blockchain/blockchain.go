@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crypdeto/sha256"
+	"crypto/sha256"
 	"encoding/json"
 	"flag"
 	"fmt"
